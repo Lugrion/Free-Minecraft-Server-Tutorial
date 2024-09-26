@@ -16,7 +16,7 @@ This tutorial is fairly similar to [this one](https://blogs.oracle.com/developer
 	  
 1) Using a Ubuntu instead of Oracle to bring more flexibility and freedom to our instance. 
 
-2) Using Crafty (minecraft server web manager) as frontend to change our preferences. Furthermore we will be learning how to manage our boot volume to have multiple instances running.
+2) Using Crafty (minecraft server web manager) as frontend to change our preferences. 
 
 To continue with this tutorial you need to have created a free tier oracle cloud account. Follow these [steps](https://blogs.oracle.com/developers/post/how-to-set-up-and-run-a-really-powerful-free-minecraft-server-in-the-cloud#sign-up-for-an-always-free-account) to make one in case you haven’t. The account offers up to 4 CPU cores and 24 GB of RAM\!
 
